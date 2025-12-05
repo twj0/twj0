@@ -12,8 +12,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twj0&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=twj0&theme=dracula&hide_border=true&bg_color=0D1117" alt="streak" />
 </div>
 
